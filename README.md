@@ -44,4 +44,4 @@ Dataset public sur l'encadrement des loyers à Paris.
 
 ## Auteur
 Md Al Amin HOSSAIN
-Projet personnel réalisé dans le cadre d'un apprentissage en analyse de données.
+-Projet personnel réalisé dans le cadre d'un apprentissage en analyse de données.
