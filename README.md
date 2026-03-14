@@ -40,7 +40,7 @@ Un modèle de **régression linéaire (Scikit-learn)** est utilisé pour prédir
 
 ## Dataset
 
-Dataset public sur l'encadrement des loyers à Paris.
+Dataset public sur l'encadrement des loyers à Paris. Le dataset original étant volumineux, un échantillon est fourni pour permettre de reproduire l’analyse.
 
 ## Auteur
 Md Al Amin HOSSAIN
